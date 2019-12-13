@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ReallySimpleCommerce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VAAnalysisDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VAMatchMerge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VAPostAnalysisRSC-POC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VAPostingDemo" vcs="Git" />
+  </component>
+</project>

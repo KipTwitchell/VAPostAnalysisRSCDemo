@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e5e3d3-b005-4ccf-b9c6-2a9c479647c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ReallySimpleCommerce/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReallySimpleCommerce/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReallySimpleCommerce/src/main/scala/RSCclient.scala" beforeDir="false" afterPath="$PROJECT_DIR$/ReallySimpleCommerce/src/main/scala/RSCclient.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReallySimpleCommerce/src/main/scala/RSCserver.scala" beforeDir="false" afterPath="$PROJECT_DIR$/ReallySimpleCommerce/src/main/scala/RSCserver.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAAnalysisDemo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAAnalysisDemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAAnalysisDemo/src/main/scala/instAnalysis.scala" beforeDir="false" afterPath="$PROJECT_DIR$/VAAnalysisDemo/src/main/scala/instAnalysis.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAMatchMerge/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAMatchMerge/bin/HSBCJoinRun.sh" beforeDir="false" afterPath="$PROJECT_DIR$/VAMatchMerge/bin/JoinRun.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAMatchMerge/bin/jzosJoinTest.jcl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAMatchMerge/ibmjzos.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAMatchMerge/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAMatchMerge/src/main/scala/HSBCJoinTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/VAMatchMerge/src/main/scala/JoinTest.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAMatchMerge/src/main/scala/jzosJoinTest.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAMatchMerge/src/main/scala/jzosScratchPad.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/VAPostingDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/VAPostingDemo/VAPostingDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/bin/cdscScript.sh" beforeDir="false" afterPath="$PROJECT_DIR$/VAPostingDemo/bin/cdscScript.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/bin/nonParallelcdscScript.sh" beforeDir="false" afterPath="$PROJECT_DIR$/VAPostingDemo/bin/nonParallelcdscScript.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/data/NonParallelTestData/FY03rev.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/data/NonParallelTestData/VATestBalTBL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/data/NonParallelTestData/VATestInstID.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/data/NonParallelTestData/VATestInstTBL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/data/NonParallelTestData/VATestMaxID.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/src/main/scala/instIDAssign.scala" beforeDir="false" afterPath="$PROJECT_DIR$/VAPostingDemo/src/main/scala/instIDAssign.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VAPostingDemo/src/main/scala/instPosting.scala" beforeDir="false" afterPath="$PROJECT_DIR$/VAPostingDemo/src/main/scala/instPosting.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +57,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ReallySimpleCommerce" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -99,7 +73,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -365,6 +339,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ReallySimpleCommerce" />
+      <path value="$PROJECT_DIR$/VAAnalysisDemo" />
+      <path value="$PROJECT_DIR$/VAMatchMerge" />
+      <path value="$PROJECT_DIR$/VAPostAnalysisRSC-POC" />
+      <path value="$PROJECT_DIR$/VAPostingDemo" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="384" y="317" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1576273486632">
       <screen x="0" y="23" width="1280" height="738" />
@@ -374,6 +357,10 @@
       <screen x="0" y="23" width="1280" height="738" />
     </state>
     <state x="228" y="135" key="IDE.errors.dialog/0.23.1280.738@0.23.1280.738" timestamp="1576149302322" />
+    <state x="149" y="31" key="SettingsEditor" timestamp="1576277058840">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state x="149" y="31" key="SettingsEditor/0.23.1280.738@0.23.1280.738" timestamp="1576277058840" />
     <state x="296" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1576194167489">
       <screen x="0" y="23" width="1280" height="738" />
     </state>

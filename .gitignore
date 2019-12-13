@@ -1,2 +1,14 @@
 *.class
 *.log
+/target/
+/target/
+/ReallySimpleCommerce/target/
+/VAAnalysisDemo/target/
+/.idea/
+/ReallySimpleCommerce/.idea/
+/VAAnalysisDemo/.idea/
+/VAMatchMerge/.idea/
+/VAMatchMerge/target/
+/VAPostingDemo/.idea/
+/VAPostingDemo/target/
+*/project/

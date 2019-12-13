@@ -6,7 +6,9 @@ This system has three major parts to
 3. A simple data capture engine
 4. A simple join program, called Match-Merge
 
-The code in this repository has not been built while in this repository structure, and likely needs to be updated for latest libraries in order to run. 
+The code in this repository has not been built while in this repository structure, and likely needs to be updated for latest libraries in order to run.
+
+A more detailed description of the system can be found at https://ledgerlearning.com/2019/12/13/simple-financial-system-proof-of-concept/  
 
 Each is described below.
 

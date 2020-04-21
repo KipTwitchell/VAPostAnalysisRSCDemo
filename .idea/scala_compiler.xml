@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="SAFRonSpark,VAAnalyisDemo,VAMatchMerge,VAPostingDemo,VASimpleFinDemo,VA_periodic_update,play,reallysimplecommerce,reallysimplecommerce_1045,universal_ledger,vaanalysisdemo,vaanalysisdemo_8805,vamatchmerge,vamatchmerge_4367,vapostanalysisrscdemo_1402,vapostanalysisrscdemo_1818,vapostanalysisrscdemo_8272,vapostingdemo,vapostingdemo_3424,vapostingdemo_8734" />
-  </component>
-</project>

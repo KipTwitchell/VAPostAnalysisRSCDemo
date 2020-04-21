@@ -8,7 +8,9 @@ This system has three major parts to
 
 The code in this repository has not been built while in this repository structure, and likely needs to be updated for latest libraries in order to run.
 
-A more detailed description of the system can be found at https://ledgerlearning.com/2019/12/13/simple-financial-system-proof-of-concept/  
+A more detailed description of the system can be found at https://ledgerlearning.com/2019/12/13/simple-financial-system-proof-of-concept/ and videos at https://www.youtube.com/playlist?list=PL2UrMfZzcfvFjnCfOBYqksqzuFbaqUupT
+
+This project was an initial basis for https://github.com/sharealedger-org/sharealedger  
 
 Each is described below.
 
@@ -46,6 +48,8 @@ The three terminal screens can be used to present an interactive simulated text 
 3. The Vendor specifies amounts for the customer to pay, and accepts payment.
 
 The system does not use cell phone values, and there are no edits on the input data.  The state of each cell phone must be waiting for response from the server before the server sends that response or the system hangs.  The system uses named pipes to communicate to each other in their respective roles.  No two terminal can share the same role at the same time.  The data in this part of the system is not connected to the VA data used in the other two parts of the system.
+
+# Data Files
 
 These are the files used in the system:
 

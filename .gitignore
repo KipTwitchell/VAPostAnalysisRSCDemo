@@ -4,7 +4,7 @@
 /target/
 /ReallySimpleCommerce/target/
 /VAAnalysisDemo/target/
-/.idea/
+.idea/
 /ReallySimpleCommerce/.idea/
 /VAAnalysisDemo/.idea/
 /VAMatchMerge/.idea/
@@ -12,6 +12,4 @@
 /VAPostingDemo/.idea/
 /VAPostingDemo/target/
 */project/
-.idea/workspace.xml
-.idea/workspace.xml
 .idea/workspace.xml
